@@ -1,0 +1,2 @@
+# switch-to-webview-throws-chrome-not-reachable-
+Environment  •Appium version (or git revision): 1.8.1  •Desktop OS/version used to run Appium: win7 SP1  •Node.js version (unless using Appium.app|exe): v8.11.0  •Mobile platform/version under test: 7.1.1  •Real device or emulator/simulator: real device  •Appium CLI or Appium.app|exe: appium --session-override --chromedriver-executable path/to/chromedriver
